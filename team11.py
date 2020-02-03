@@ -7,7 +7,7 @@
 ####
 
 team_name = 'Team11'# Only 10 chars displayed
-strategy_name = 'Collude but retaliate'
+strategy_name = 'Copy opponent move'
 strategy_description = '''\
 Collude first round. Collude, except in a round after getting 
 a severe punishment.'''
